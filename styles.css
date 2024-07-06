@@ -1,0 +1,30 @@
+.titolo{
+    color: rgb(238, 14, 14);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: rgb(7, 3, 10);
+    background-color: rgb(0, 255, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box{
+    height: 50%;
+    background-color: aliceblue;
+}
+
+    
+
+body{
+    background-image: url(https://cdn.sanity.io/images/ku7s4y42/production/1504ae654fdfeca4f482c202939e9639eb5c320e-2500x800.jpg?w=2500&h=800&auto=format
+    );
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.tasto{
+    background-color: yellow;
+}
+.tasto:hover{
+    background-color: forestgreen;
+}
